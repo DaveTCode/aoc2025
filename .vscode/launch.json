@@ -10,7 +10,7 @@
       "request": "launch",
       "mode": "debug",
       "program": "${file}",
-      "args": ["day9/input"],
+      "args": ["day10/test"],
     }
 
   ]
